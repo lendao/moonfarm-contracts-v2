@@ -1,8 +1,8 @@
 # MoonFarm.in Contracts
 
 Moonriver mainnet deployed:
-- MoonMaster:  TBA
-- MoonFarmToken:
+- MoonMaster:  0x78Aa55Ce0b0DC7488d2C38BD92769f4d0C8196Ff
+- MoonFarmToken: 0xB497c3E9D27Ba6b1fea9F1b941d8C79E66cfC9d6
 - MoonSwap Token: 0xB3FB48bF090bEDFF4f6F93FFb40221742E107db7
 
 MoonSwap contracts:

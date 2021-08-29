@@ -47,7 +47,7 @@ contract MoonMaster is Ownable {
 
 
     // The moonfarm :moon: TOKEN!
-    MoonFarmToken public moonfarm;
+    MoonFarmToken public immutable moonfarm;
     // Dev address.
     address public devaddr;
     // moonfarm tokens created per block.
@@ -260,6 +260,8 @@ contract MoonMaster is Ownable {
 
        //Only update before start of farm
     function updateStartBlock(uint256 _startBlock) public onlyOwner {
+        require(block.number <= startBlock,"cant change future");
         startBlock = _startBlock;
     }
+
 }
