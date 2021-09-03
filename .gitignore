@@ -39,6 +39,7 @@ build/Release
 /scripts/pools.js
 /scripts/locker.js
 locker.txt
+/contracts/lottery
 
 
 # Dependency directories
