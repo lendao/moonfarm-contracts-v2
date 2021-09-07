@@ -84,3 +84,6 @@ typings/
 
 # FuseBox cache
 .fusebox/
+lottery.txt
+lotterynft.txt
+scripts/lottery.js
