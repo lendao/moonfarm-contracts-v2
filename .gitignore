@@ -35,12 +35,10 @@ bower_components
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
-/contracts/MoonLocker.sol
 /scripts/pools.js
 /scripts/locker.js
 /scripts/idoregistration.js
 locker.txt
-/contracts/lottery
 /contracts/IDOContract.sol
 /contracts/IDORegistration.sol
 /contracts/IIDORegistration.sol
