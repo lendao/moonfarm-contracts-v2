@@ -38,10 +38,14 @@ build/Release
 /scripts/pools.js
 /scripts/locker.js
 /scripts/idoregistration.js
+/scripts/nft-airdrop.js
 locker.txt
 /contracts/IDOContract.sol
 /contracts/IDORegistration.sol
 /contracts/IIDORegistration.sol
+/contracts/IDOLocker.sol
+/contracts/IIDOLocker.sol
+/contracts/NFTIDO.sol
 
 
 # Dependency directories
